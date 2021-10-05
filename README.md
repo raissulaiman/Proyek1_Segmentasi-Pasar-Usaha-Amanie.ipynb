@@ -1,0 +1,1 @@
+# Proyek1_Segmentasi-Pasar-Usaha-Amanie.ipynb
