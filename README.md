@@ -1,4 +1,4 @@
-# Proyek1_Segmentasi-Pasar-Usaha-Amanie.ipynb
+# Proyek3_Segmentasi-Pasar-Usaha-Amanie.ipynb
 
 Proyek ini diambil dari topik yang diangkat oleh saya untuk skripsi saya yaitu mengenai segmentasi pasar salah satu usaha mikro di Kota Bogor yang menjual sabun dan cairan pembersih, yaitu Usaha Mikro 'Amanie'.
 
